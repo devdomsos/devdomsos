@@ -4,7 +4,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<img alt="devdomsos's Github Stats" src="https://github-readme-stats-woad-seven-51.vercel.app/api?username=devdomsos&show_icons=true&theme=synthwave&show=prs_merged&include_all_commits" /> <img alt="devdomsos's Github Language Stats" src="https://github-readme-stats-woad-seven-51.vercel.app/api/top-langs/?username=devdomsos&layout=compact&theme=synthwave" />
+<img alt="devdomsos's Github Stats" src="https://github-readme-stats-woad-seven-51.vercel.app/api?username=devdomsos&include_all_commits=true&show_icons=true&theme=synthwave&show=prs_merged" /> <img alt="devdomsos's Github Language Stats" src="https://github-readme-stats-woad-seven-51.vercel.app/api/top-langs/?username=devdomsos&layout=compact&theme=synthwave" />
 
 
 <h3 align="left">Languages and Tools:</h3>
