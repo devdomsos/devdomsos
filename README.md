@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdomsos)](https://github.com/anuraghazra/github-readme-stats)
-
+<details>
+<img alt="devdomsos's Github Stats" href="github-readme-stats-woad-seven-51.vercel.app/api?username=devdomsos&show_icons=true&theme=ambient_gradient" />
+</details>
 <!--
 **devdomsos/devdomsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
