@@ -2,6 +2,8 @@
 
 <img alt="devdomsos's Github Stats" src="https://github-readme-stats-woad-seven-51.vercel.app/api?username=devdomsos&show_icons=true&theme=synthwave&show=prs_merged" />
 
+<img alt="devdomsos's Github Language Stats" src="https://github-readme-stats-woad-seven-51.vercel.app/api/top-langs/?username=devdomsos&layout=compact&theme=synthwave" />
+
 <!--
 **devdomsos/devdomsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
